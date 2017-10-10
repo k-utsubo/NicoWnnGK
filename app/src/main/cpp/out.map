@@ -1,0 +1,1132 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ .note.GNU-stack
+                0x00000000        0x0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ .group         0x00000000        0x8 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .text          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .data          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .bss           0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .text.__x86.get_pc_thunk.bx
+                0x00000000        0x4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .note.GNU-stack
+                0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .group         0x00000000        0x8 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .text          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .data          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .bss           0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .text.__x86.get_pc_thunk.bx
+                0x00000000        0x4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .note.GNU-stack
+                0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .group         0x00000000        0x8 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .text          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .data          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .bss           0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .text.__x86.get_pc_thunk.bx
+                0x00000000        0x4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .note.GNU-stack
+                0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .group         0x00000000        0x8 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .text          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .data          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .bss           0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .text.__x86.get_pc_thunk.bx
+                0x00000000        0x4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .note.GNU-stack
+                0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .group         0x00000000        0x8 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .text          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .data          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .bss           0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .text.__x86.get_pc_thunk.bx
+                0x00000000        0x4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .note.GNU-stack
+                0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .group         0x00000000        0x8 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .text          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .data          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .bss           0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .text.__x86.get_pc_thunk.bx
+                0x00000000        0x4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .note.GNU-stack
+                0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .group         0x00000000        0x8 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .text          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .data          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .bss           0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .text.__x86.get_pc_thunk.bx
+                0x00000000        0x4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .note.GNU-stack
+                0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .text          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .data          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .bss           0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .note.GNU-stack
+                0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .text          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .data          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .bss           0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .note.GNU-stack
+                0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .text          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+ .data          0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+ .bss           0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+ .note.GNU-stack
+                0x00000000        0x0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+ .text          0x00000000        0x0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtend_so.o
+ .data          0x00000000        0x0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtend_so.o
+ .bss           0x00000000        0x0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtend_so.o
+ .note.GNU-stack
+                0x00000000        0x0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtend_so.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+LOAD H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+LOAD H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+LOAD H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+LOAD H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+LOAD H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+LOAD H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+LOAD H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+LOAD H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+LOAD H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+LOAD H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+LOAD D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libstdc++.so
+LOAD D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libm.so
+LOAD D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libc.so
+LOAD d:/dev/android-ndk-r8b/toolchains/x86-4.6/prebuilt/windows/bin/../lib/gcc/i686-linux-android/4.6.x-google\libgcc.a
+LOAD D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libc.so
+LOAD D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libdl.so
+LOAD d:/dev/android-ndk-r8b/toolchains/x86-4.6/prebuilt/windows/bin/../lib/gcc/i686-linux-android/4.6.x-google\libgcc.a
+LOAD D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtend_so.o
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000f4      0x290
+ *(.hash)
+ .hash          0x000000f4      0x290 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00000384      0x5f0
+ *(.dynsym)
+ .dynsym        0x00000384      0x5f0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+
+.dynstr         0x00000974      0xd25
+ *(.dynstr)
+ .dynstr        0x00000974      0xd25 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+
+.gnu.version    0x0000169a        0x0 load address 0x00001699
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+
+.gnu.version_d  0x0000169c        0x0 load address 0x00001699
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+
+.gnu.version_r  0x0000169c        0x0 load address 0x00001699
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+
+.rel.dyn        0x0000169c       0xa0
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro.local
+                0x0000169c       0x78 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data      0x00001714        0x8 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x0000171c       0x10 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x00000000        0x0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ .rel.init_array
+                0x0000172c        0x8 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ .rel.fini_array
+                0x00001734        0x8 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+
+.rel.plt        0x0000173c       0x88
+ *(.rel.plt)
+ .rel.plt       0x0000173c       0x88 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ *(.rel.iplt)
+
+.init
+ *(.init)
+
+.plt            0x000017c4      0x120
+ *(.plt)
+ .plt           0x000017c4      0x120 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ *(.iplt)
+
+.text           0x000018f0     0xc2c1
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000018f0       0xf1 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+                0x00001990                atexit
+                0x000019d0                __stack_chk_fail_local
+ .text.__x86.get_pc_thunk.bx
+                0x000019e1        0xc D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+                0x000019e1                __x86.get_pc_thunk.bx
+ *fill*         0x000019ed        0x3 90909090
+ .text.clearDictionaryStructure
+                0x000019f0       0x17 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ *fill*         0x00001a07        0x9 90909090
+ .text.convertUTFCharToNjChar
+                0x00001a10       0x1b H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ *fill*         0x00001a2b        0x5 90909090
+ .text.convertStringToNjChar
+                0x00001a30      0x28d H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ *fill*         0x00001cbd        0x3 90909090
+ .text.convertNjCharToString
+                0x00001cc0      0x1e1 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ *fill*         0x00001ea1        0xf 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_createWnnWork
+                0x00001eb0      0x1df H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00001eb0                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_createWnnWork
+ *fill*         0x0000208f        0x1 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_freeWnnWork
+                0x00002090       0x54 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002090                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_freeWnnWork
+ *fill*         0x000020e4        0xc 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_clearDictionaryParameters
+                0x000020f0       0x75 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x000020f0                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_clearDictionaryParameters
+ *fill*         0x00002165        0xb 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setDictionaryParameter
+                0x00002170       0xe2 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002170                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setDictionaryParameter
+ *fill*         0x00002252        0xe 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_searchWord
+                0x00002260      0x1a2 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002260                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_searchWord
+ *fill*         0x00002402        0xe 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getNextWord
+                0x00002410       0xdd H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002410                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getNextWord
+ *fill*         0x000024ed        0x3 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getStroke
+                0x000024f0       0xec H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x000024f0                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getStroke
+ *fill*         0x000025dc        0x4 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getCandidate
+                0x000025e0       0xec H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x000025e0                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getCandidate
+ *fill*         0x000026cc        0x4 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getFrequency
+                0x000026d0       0x33 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x000026d0                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getFrequency
+ *fill*         0x00002703        0xd 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_clearApproxPatterns
+                0x00002710       0x7b H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002710                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_clearApproxPatterns
+ *fill*         0x0000278b        0x5 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setApproxPattern__JLjava_lang_String_2Ljava_lang_String_2
+                0x00002790      0x19c H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002790                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setApproxPattern__JLjava_lang_String_2Ljava_lang_String_2
+ *fill*         0x0000292c        0x4 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setApproxPattern__JI
+                0x00002930      0x122 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002930                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setApproxPattern(__complex int0_t)
+ *fill*         0x00002a52        0xe 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getLeftPartOfSpeech
+                0x00002a60       0x2f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002a60                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getLeftPartOfSpeech
+ *fill*         0x00002a8f        0x1 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getRightPartOfSpeech
+                0x00002a90       0x2f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002a90                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getRightPartOfSpeech
+ *fill*         0x00002abf        0x1 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_clearResult
+                0x00002ac0       0x90 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002ac0                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_clearResult
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setLeftPartOfSpeech
+                0x00002b50       0xb6 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002b50                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setLeftPartOfSpeech
+ *fill*         0x00002c06        0xa 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setRightPartOfSpeech
+                0x00002c10       0xb6 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002c10                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setRightPartOfSpeech
+ *fill*         0x00002cc6        0xa 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setStroke
+                0x00002cd0       0x8e H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002cd0                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setStroke
+ *fill*         0x00002d5e        0x2 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setCandidate
+                0x00002d60       0x8e H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002d60                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setCandidate
+ *fill*         0x00002dee        0x2 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_selectWord
+                0x00002df0       0x6f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002df0                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_selectWord
+ *fill*         0x00002e5f        0x1 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getLeftPartOfSpeechSpecifiedType
+                0x00002e60       0xae H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002e60                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getLeftPartOfSpeechSpecifiedType
+ *fill*         0x00002f0e        0x2 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getRightPartOfSpeechSpecifiedType
+                0x00002f10       0xa6 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002f10                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getRightPartOfSpeechSpecifiedType
+ *fill*         0x00002fb6        0xa 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getConnectArray
+                0x00002fc0      0x17c H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00002fc0                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getConnectArray
+ *fill*         0x0000313c        0x4 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getNumberOfLeftPOS
+                0x00003140       0x66 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00003140                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getNumberOfLeftPOS
+ *fill*         0x000031a6        0xa 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getNumberOfRightPOS
+                0x000031b0       0x66 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x000031b0                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getNumberOfRightPOS
+ *fill*         0x00003216        0xa 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getApproxPattern
+                0x00003220      0x214 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00003220                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getApproxPattern
+ *fill*         0x00003434        0xc 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_createBindArray
+                0x00003440      0x3e2 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00003440                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_createBindArray
+ *fill*         0x00003822        0xe 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_createQueryStringBase
+                0x00003830      0x2a4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00003830                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_createQueryStringBase
+ *fill*         0x00003ad4        0xc 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setDicFilePermission600
+                0x00003ae0       0xa8 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00003ae0                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setDicFilePermission600
+ *fill*         0x00003b88        0x8 90909090
+ .text.Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_moveOldDicFile
+                0x00003b90       0xec H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                0x00003b90                Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_moveOldDicFile
+ *fill*         0x00003c7c        0x4 90909090
+ .text.set_operation_id.isra.0
+                0x00003c80       0x52 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ *fill*         0x00003cd2        0xe 90909090
+ .text.njd_get_word_data
+                0x00003ce0       0xf4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                0x00003ce0                njd_get_word_data
+ *fill*         0x00003dd4        0xc 90909090
+ .text.njd_get_stroke
+                0x00003de0      0x16a H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                0x00003de0                njd_get_stroke
+ *fill*         0x00003f4a        0x6 90909090
+ .text.njd_get_candidate
+                0x00003f50       0xef H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                0x00003f50                njd_get_candidate
+ *fill*         0x0000403f        0x1 90909090
+ .text.njx_check_dic
+                0x00004040      0x2d7 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                0x00004040                njx_check_dic
+ *fill*         0x00004317        0x9 90909090
+ .text.njd_init_search_location_set
+                0x00004320       0x47 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                0x00004320                njd_init_search_location_set
+ *fill*         0x00004367        0x9 90909090
+ .text.njx_search_word
+                0x00004370      0x5a9 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                0x00004370                njx_search_word
+ *fill*         0x00004919        0x7 90909090
+ .text.njd_init_word
+                0x00004920       0x60 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                0x00004920                njd_init_word
+ .text.get_word_and_search_next_word
+                0x00004980      0x82b H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ *fill*         0x000051ab        0x5 90909090
+ .text.njx_get_word
+                0x000051b0       0x42 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                0x000051b0                njx_get_word
+ *fill*         0x000051f2        0xe 90909090
+ .text.set_previous_selection
+                0x00005200      0x160 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .text.njx_select
+                0x00005360       0x4d H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                0x00005360                njx_select
+ *fill*         0x000053ad        0x3 90909090
+ .text.njx_init
+                0x000053b0       0x1f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                0x000053b0                njx_init
+ *fill*         0x000053cf        0x1 90909090
+ .text.njx_get_candidate
+                0x000053d0       0x8d H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                0x000053d0                njx_get_candidate
+ *fill*         0x0000545d        0x3 90909090
+ .text.njx_get_stroke
+                0x00005460       0x8d H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                0x00005460                njx_get_stroke
+ *fill*         0x000054ed        0x3 90909090
+ .text.get_stem_hindo
+                0x000054f0       0x79 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ *fill*         0x00005569        0x7 90909090
+ .text.get_stem_next
+                0x00005570      0x104 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ *fill*         0x00005674        0xc 90909090
+ .text.search_node
+                0x00005680      0x9b3 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ *fill*         0x00006033        0xd 90909090
+ .text.search_yomi_node
+                0x00006040      0x61b H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ *fill*         0x0000665b        0x5 90909090
+ .text.bdic_get_next_data
+                0x00006660      0x242 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ *fill*         0x000068a2        0xe 90909090
+ .text.bdic_search_fore_data2
+                0x000068b0      0x962 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ *fill*         0x00007212        0xe 90909090
+ .text.get_stem_yomi_string
+                0x00007220      0x14d H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ *fill*         0x0000736d        0x3 90909090
+ .text.get_stem_yomi_data.isra.1
+                0x00007370      0x111 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ *fill*         0x00007481        0xf 90909090
+ .text.bdic_search_data.isra.3
+                0x00007490      0x17c H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ *fill*         0x0000760c        0x4 90909090
+ .text.bdic_search_fore_data.isra.4
+                0x00007610      0x356 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ *fill*         0x00007966        0xa 90909090
+ .text.get_node_bottom.isra.5
+                0x00007970      0x21e H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ *fill*         0x00007b8e        0x2 90909090
+ .text.search_node2
+                0x00007b90      0xe8d H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ *fill*         0x00008a1d        0x3 90909090
+ .text.njd_b_search_word
+                0x00008a20      0x251 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                0x00008a20                njd_b_search_word
+ *fill*         0x00008c71        0xf 90909090
+ .text.njd_b_get_word
+                0x00008c80      0x56b H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                0x00008c80                njd_b_get_word
+ *fill*         0x000091eb        0x5 90909090
+ .text.njd_b_get_candidate
+                0x000091f0      0x2c8 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                0x000091f0                njd_b_get_candidate
+ *fill*         0x000094b8        0x8 90909090
+ .text.njd_b_get_stroke
+                0x000094c0       0xea H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                0x000094c0                njd_b_get_stroke
+ *fill*         0x000095aa        0x6 90909090
+ .text.convert_to_yomi
+                0x000095b0      0x10a H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ *fill*         0x000096ba        0x6 90909090
+ .text.njd_f_search_word
+                0x000096c0      0x386 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                0x000096c0                njd_f_search_word
+ *fill*         0x00009a46        0xa 90909090
+ .text.njd_f_get_stroke
+                0x00009a50      0x140 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                0x00009a50                njd_f_get_stroke
+ .text.njd_f_get_word
+                0x00009b90      0x1a3 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                0x00009b90                njd_f_get_word
+ *fill*         0x00009d33        0xd 90909090
+ .text.njd_f_get_candidate
+                0x00009d40      0x28d H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                0x00009d40                njd_f_get_candidate
+ *fill*         0x00009fcd        0x3 90909090
+ .text.get_que_type_and_next
+                0x00009fd0       0x90 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .text.get_que_allHinsi
+                0x0000a060       0xab H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000a10b        0x5 90909090
+ .text.get_que  0x0000a110       0xea H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000a1fa        0x6 90909090
+ .text.is_continued
+                0x0000a200       0xca H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000a2ca        0x6 90909090
+ .text.continue_cnt
+                0x0000a2d0       0xcb H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000a39b        0x5 90909090
+ .text.search_next_que
+                0x0000a3a0       0x99 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000a439        0x7 90909090
+ .text.get_string
+                0x0000a440      0x22e H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000a66e        0x2 90909090
+ .text.get_hyouki
+                0x0000a670      0x394 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000aa04        0xc 90909090
+ .text.que_strcmp_complete_with_hyouki
+                0x0000aa10      0x1ef H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000abff        0x1 90909090
+ .text.get_search_index_address.isra.0
+                0x0000ac00       0x22 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000ac22        0xe 90909090
+ .text.search_range_by_yomi
+                0x0000ac30      0x4bf H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000b0ef        0x1 90909090
+ .text.str_que_cmp.isra.1
+                0x0000b0f0      0x1e7 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000b2d7        0x9 90909090
+ .text.search_range_by_yomi2.isra.4
+                0x0000b2e0      0x2b1 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000b591        0xf 90909090
+ .text.get_hindo.isra.3
+                0x0000b5a0      0x135 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000b6d5        0xb 90909090
+ .text.get_cand_by_evaluate
+                0x0000b6e0      0x6af H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000bd8f        0x1 90909090
+ .text.get_cand_by_sequential
+                0x0000bd90      0x433 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000c1c3        0xd 90909090
+ .text.get_cand_by_evaluate2
+                0x0000c1d0      0xb3c H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ *fill*         0x0000cd0c        0x4 90909090
+ .text.njd_l_search_word
+                0x0000cd10      0x24c H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                0x0000cd10                njd_l_search_word
+ *fill*         0x0000cf5c        0x4 90909090
+ .text.njd_l_get_word
+                0x0000cf60      0x125 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                0x0000cf60                njd_l_get_word
+ *fill*         0x0000d085        0xb 90909090
+ .text.njd_l_get_stroke
+                0x0000d090       0x8f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                0x0000d090                njd_l_get_stroke
+ *fill*         0x0000d11f        0x1 90909090
+ .text.njd_l_get_candidate
+                0x0000d120       0x8f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                0x0000d120                njd_l_get_candidate
+ *fill*         0x0000d1af        0x1 90909090
+ .text.njd_l_check_dic
+                0x0000d1b0      0x2d4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                0x0000d1b0                njd_l_check_dic
+ *fill*         0x0000d484        0xc 90909090
+ .text.njd_r_get_hinsi
+                0x0000d490      0x127 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+                0x0000d490                njd_r_get_hinsi
+ *fill*         0x0000d5b7        0x9 90909090
+ .text.njd_r_get_connect
+                0x0000d5c0       0xb6 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+                0x0000d5c0                njd_r_get_connect
+ *fill*         0x0000d676        0xa 90909090
+ .text.njd_r_get_count
+                0x0000d680       0x33 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+                0x0000d680                njd_r_get_count
+ *fill*         0x0000d6b3        0xd 90909090
+ .text.nje_convert_hira_to_kata
+                0x0000d6c0       0xb4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+                0x0000d6c0                nje_convert_hira_to_kata
+ *fill*         0x0000d774        0xc 90909090
+ .text.njd_connect_test
+                0x0000d780       0xc4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+                0x0000d780                njd_connect_test
+ *fill*         0x0000d844        0xc 90909090
+ .text.nj_strcpy
+                0x0000d850       0x30 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                0x0000d850                nj_strcpy
+ .text.nj_strncpy
+                0x0000d880       0x61 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                0x0000d880                nj_strncpy
+ *fill*         0x0000d8e1        0xf 90909090
+ .text.nj_strlen
+                0x0000d8f0       0x20 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                0x0000d8f0                nj_strlen
+ .text.nj_strcmp
+                0x0000d910       0x6e H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                0x0000d910                nj_strcmp
+ *fill*         0x0000d97e        0x2 90909090
+ .text.nj_strncmp
+                0x0000d980       0x89 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                0x0000d980                nj_strncmp
+ *fill*         0x0000da09        0x7 90909090
+ .text.nj_charlen
+                0x0000da10       0x4f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                0x0000da10                nj_charlen
+ *fill*         0x0000da5f        0x1 90909090
+ .text.nj_charncmp
+                0x0000da60       0x9a H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                0x0000da60                nj_charncmp
+ *fill*         0x0000dafa        0x6 90909090
+ .text.nj_charncpy
+                0x0000db00       0x73 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                0x0000db00                nj_charncpy
+ *fill*         0x0000db73        0xd 90909090
+ .text.nj_memcpy
+                0x0000db80       0x31 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                0x0000db80                nj_memcpy
+ *(.gnu.warning)
+
+.fini
+ *(.fini)
+                0x0000dbb1                PROVIDE (__etext, .)
+                0x0000dbb1                PROVIDE (_etext, .)
+                0x0000dbb1                PROVIDE (etext, .)
+
+.rodata         0x0000dbb4      0x49c
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000dbb4       0x59 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                                 0x5a (size before relaxing)
+ *fill*         0x0000dc0d        0x3 00
+ .rodata        0x0000dc10      0x361 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ *fill*         0x0000df71        0x3 00
+ .rodata.str1.4
+                0x0000df74       0x98 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                                 0x97 (size before relaxing)
+ .rodata        0x0000e00c       0x44 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000e050      0x35c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000e050      0x35c H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+
+.eh_frame       0x0000e3ac     0x181c
+ *(.eh_frame)
+ .eh_frame      0x0000e3ac        0x0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ .eh_frame      0x0000e3ac      0x650 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                                0x664 (size before relaxing)
+ .eh_frame      0x0000e9fc      0x258 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                0x284 (size before relaxing)
+ .eh_frame      0x0000ec54       0xd0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                                 0xfc (size before relaxing)
+ .eh_frame      0x0000ed24      0x454 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                                0x480 (size before relaxing)
+ .eh_frame      0x0000f178      0x14c H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                                0x178 (size before relaxing)
+ .eh_frame      0x0000f2c4      0x630 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                0x65c (size before relaxing)
+ .eh_frame      0x0000f8f4       0xc8 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+                                 0xf4 (size before relaxing)
+ .eh_frame      0x0000f9bc       0x48 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+                                 0x60 (size before relaxing)
+ .eh_frame      0x0000fa04       0x28 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+                                 0x40 (size before relaxing)
+ .eh_frame      0x0000fa2c      0x198 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                                0x1b0 (size before relaxing)
+ .eh_frame      0x0000fbc4        0x4 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtend_so.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x00010000                . = ALIGN (0x1000)
+                0x00010e4c                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+                0x00010e4c                . = ALIGN (0x4)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x00010e4c        0xc
+ *crtbegin*.o(.init_array)
+ .init_array    0x00010e4c        0x8 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+                0x00010e4c                __INIT_ARRAY__
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00010e54        0x4 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtend_so.o
+
+.fini_array     0x00010e58        0xc
+ *crtbegin*.o(.fini_array)
+ .fini_array    0x00010e58        0x8 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+                0x00010e58                __FINI_ARRAY__
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x00010e60        0x4 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtend_so.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin*.o(.ctors)
+ *(EXCLUDE_FILE(*crtend*.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin*.o(.dtors)
+ *(EXCLUDE_FILE(*crtend*.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x00010e64       0x54
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x00010e64       0x54 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00010eb8       0xf0
+ *(.dynamic)
+ .dynamic       0x00010eb8       0xf0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+                0x00010eb8                _DYNAMIC
+
+.got            0x00010fa8       0x58
+ *(.got.plt)
+ .got.plt       0x00010fa8       0x50 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+                0x00010fa8                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ *(.got)
+ .got           0x00010ff8        0x8 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ *(.igot)
+                0x00011000                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.data           0x00011000        0x4
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00011000        0x4 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+                0x00011000                __dso_handle
+
+.data1
+ *(.data1)
+                0x00011004                _edata = .
+                0x00011004                PROVIDE (edata, .)
+                0x00011004                __bss_start = .
+
+.bss            0x00011004       0x1c
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00011004       0x1c D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+ *(COMMON)
+                0x00011020                . = ALIGN (0x4)
+                0x00011020                . = ALIGN (0x4)
+                0x00011020                . = ALIGN (0x4)
+                0x00011020                _end = .
+                0x00011020                _bss_end__ = .
+                0x00011020                __bss_end__ = .
+                0x00011020                __end__ = .
+                0x00011020                PROVIDE (end, .)
+                0x00011020                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x2e
+ *(.comment)
+ .comment       0x00000000       0x2e H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                                 0x2f (size before relaxing)
+ .comment       0x00000000       0x2f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .comment       0x00000000       0x2f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .comment       0x00000000       0x2f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .comment       0x00000000       0x2f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .comment       0x00000000       0x2f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .comment       0x00000000       0x2f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .comment       0x00000000       0x2f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .comment       0x00000000       0x2f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .comment       0x00000000       0x2f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo .zdebug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames .zdebug_sfnames)
+
+.debug_aranges  0x00000000      0x478
+ *(.debug_aranges .zdebug_aranges)
+ .debug_aranges
+                0x00000000      0x130 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .debug_aranges
+                0x00000130       0x70 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .debug_aranges
+                0x000001a0       0x48 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .debug_aranges
+                0x000001e8       0xa0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .debug_aranges
+                0x00000288       0x48 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .debug_aranges
+                0x000002d0       0xd0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .debug_aranges
+                0x000003a0       0x38 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .debug_aranges
+                0x000003d8       0x20 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .debug_aranges
+                0x000003f8       0x20 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .debug_aranges
+                0x00000418       0x60 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+
+.debug_pubnames
+                0x00000000     0x11fd
+ *(.debug_pubnames .zdebug_pubnames)
+ .debug_pubnames
+                0x00000000      0xb4e H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .debug_pubnames
+                0x00000b4e       0xf9 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .debug_pubnames
+                0x00000c47       0x72 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .debug_pubnames
+                0x00000cb9      0x184 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .debug_pubnames
+                0x00000e3d       0x7c H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .debug_pubnames
+                0x00000eb9      0x207 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .debug_pubnames
+                0x000010c0       0x50 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .debug_pubnames
+                0x00001110       0x2f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .debug_pubnames
+                0x0000113f       0x27 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .debug_pubnames
+                0x00001166       0x97 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+
+.debug_info     0x00000000     0xbb58
+ *(.debug_info .gnu.linkonce.wi.* .zdebug_info)
+ .debug_info    0x00000000     0x4e4c H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .debug_info    0x00004e4c     0x10b7 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .debug_info    0x00005f03      0x895 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .debug_info    0x00006798     0x1f32 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .debug_info    0x000086ca      0xa7e H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .debug_info    0x00009148     0x200a H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .debug_info    0x0000b152      0x197 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .debug_info    0x0000b2e9       0xf5 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .debug_info    0x0000b3de      0x449 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .debug_info    0x0000b827      0x331 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+
+.debug_abbrev   0x00000000     0x12a3
+ *(.debug_abbrev .zdebug_abbrev)
+ .debug_abbrev  0x00000000      0x31b H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .debug_abbrev  0x0000031b      0x2e0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .debug_abbrev  0x000005fb      0x1cf H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .debug_abbrev  0x000007ca      0x2fb H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .debug_abbrev  0x00000ac5      0x287 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .debug_abbrev  0x00000d4c      0x2a6 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .debug_abbrev  0x00000ff2       0x98 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .debug_abbrev  0x0000108a       0x8e H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .debug_abbrev  0x00001118       0xbc H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .debug_abbrev  0x000011d4       0xcf H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+
+.debug_line     0x00000000     0x3b6e
+ *(.debug_line .zdebug_line)
+ .debug_line    0x00000000      0xb06 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .debug_line    0x00000b06      0x619 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .debug_line    0x0000111f      0x1a7 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .debug_line    0x000012c6     0x1044 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .debug_line    0x0000230a      0x324 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .debug_line    0x0000262e      0xe68 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .debug_line    0x00003496      0x1c6 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .debug_line    0x0000365c      0x10f H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .debug_line    0x0000376b       0xf7 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .debug_line    0x00003862      0x30c H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+
+.debug_frame
+ *(.debug_frame .zdebug_frame)
+
+.debug_str      0x00000000     0x33df
+ *(.debug_str .zdebug_str)
+ .debug_str     0x00000000     0x2549 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+                               0x268d (size before relaxing)
+ .debug_str     0x00002549      0x23b H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                0x6de (size before relaxing)
+ .debug_str     0x00002784       0xcb H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                                0x458 (size before relaxing)
+ .debug_str     0x0000284f      0x4b4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                                0x7da (size before relaxing)
+ .debug_str     0x00002d03       0xe2 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                                0x40a (size before relaxing)
+ .debug_str     0x00002de5      0x3d7 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                0x8d1 (size before relaxing)
+ .debug_str     0x000031bc       0x95 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+                                0x16a (size before relaxing)
+ .debug_str     0x00003251       0x6e H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+                                0x124 (size before relaxing)
+ .debug_str     0x000032bf       0x70 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+                                0x292 (size before relaxing)
+ .debug_str     0x0000332f       0xb0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                                0x162 (size before relaxing)
+
+.debug_loc      0x00000000     0xe34e
+ *(.debug_loc .zdebug_loc)
+ .debug_loc     0x00000000     0x1dab H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .debug_loc     0x00001dab     0x1013 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .debug_loc     0x00002dbe      0x3b9 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .debug_loc     0x00003177     0x525a H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .debug_loc     0x000083d1      0x8ef H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .debug_loc     0x00008cc0     0x4a99 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .debug_loc     0x0000d759      0x24c H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .debug_loc     0x0000d9a5      0x188 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .debug_loc     0x0000db2d       0x98 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .debug_loc     0x0000dbc5      0x789 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+
+.debug_macinfo
+ *(.debug_macinfo .zdebug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames .zdebug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames .zdebug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames .zdebug_typenames)
+
+.debug_varnames
+ *(.debug_varnames .zdebug_varnames)
+
+.debug_pubtypes
+                0x00000000     0x12e8
+ *(.debug_pubtypes .zdebug_pubtypes)
+ .debug_pubtypes
+                0x00000000      0x518 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .debug_pubtypes
+                0x00000518      0x24c H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .debug_pubtypes
+                0x00000764      0x1e7 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .debug_pubtypes
+                0x0000094b      0x1ea H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .debug_pubtypes
+                0x00000b35      0x1cc H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .debug_pubtypes
+                0x00000d01      0x234 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .debug_pubtypes
+                0x00000f35       0xd4 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .debug_pubtypes
+                0x00001009       0xc1 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .debug_pubtypes
+                0x000010ca      0x15d H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .debug_pubtypes
+                0x00001227       0xc1 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+
+.debug_ranges   0x00000000      0xb20
+ *(.debug_ranges .zdebug_ranges)
+ .debug_ranges  0x00000000      0x460 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+ .debug_ranges  0x00000460      0x178 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+ .debug_ranges  0x000005d8       0x68 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+ .debug_ranges  0x00000640      0x190 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+ .debug_ranges  0x000007d0       0xe8 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+ .debug_ranges  0x000008b8      0x1d0 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+ .debug_ranges  0x00000a88       0x28 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+ .debug_ranges  0x00000ab0       0x10 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+ .debug_ranges  0x00000ac0       0x10 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+ .debug_ranges  0x00000ad0       0x50 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+ *(.mdebug.*)
+OUTPUT(H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/libnicownngdict.so elf32-i386)
+
+Cross Reference Table
+
+Symbol                                            File
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_clearApproxPatterns H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_clearDictionaryParameters H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_clearResult H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_createBindArray H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_createQueryStringBase H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_createWnnWork H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_freeWnnWork H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getApproxPattern H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getCandidate H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getConnectArray H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getFrequency H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getLeftPartOfSpeech H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getLeftPartOfSpeechSpecifiedType H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getNextWord H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getNumberOfLeftPOS H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getNumberOfRightPOS H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getRightPartOfSpeech H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getRightPartOfSpeechSpecifiedType H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_getStroke H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_moveOldDicFile H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_searchWord H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_selectWord H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setApproxPattern(__complex int0_t) H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setApproxPattern__JLjava_lang_String_2Ljava_lang_String_2 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setCandidate H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setDicFilePermission600 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setDictionaryParameter H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setLeftPartOfSpeech H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setRightPartOfSpeech H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+Java_net_gorry_android_input_nicownng_OpenWnnDictionaryImplJni_setStroke H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+_DYNAMIC                                          D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+_GLOBAL_OFFSET_TABLE_                             D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+__FINI_ARRAY__                                    D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+__INIT_ARRAY__                                    D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+__bss_end__                                       D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libstdc++.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libdl.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libc.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libm.so
+__bss_start                                       D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libstdc++.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libdl.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libc.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libm.so
+__deregister_frame_info_bases                     D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+__dso_handle                                      D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+__end__                                           D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libstdc++.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libdl.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libc.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libm.so
+__register_frame_info_bases                       D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+__stack_chk_fail_local                            D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+__x86.get_pc_thunk.bx                             D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+_bss_end__                                        D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libstdc++.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libdl.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libc.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libm.so
+_edata                                            D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libstdc++.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libdl.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libc.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libm.so
+_end                                              D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libstdc++.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libdl.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libc.so
+                                                  D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/libm.so
+atexit                                            D:/dev/android-ndk-r8b/platforms/android-9/arch-x86/usr/lib/crtbegin_so.o
+nj_charlen                                        H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+nj_charncmp                                       H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+nj_charncpy                                       H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+nj_memcpy                                         H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+nj_strcmp                                         H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+nj_strcpy                                         H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+nj_strlen                                         H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+nj_strncmp                                        H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+nj_strncpy                                        H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/nj_str.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_b_get_candidate                               H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_b_get_stroke                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_b_get_word                                    H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_b_search_word                                 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_connect_test                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndcommon.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+njd_f_get_candidate                               H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_f_get_stroke                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_f_get_word                                    H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_f_search_word                                 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_get_candidate                                 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+njd_get_stroke                                    H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+njd_get_word_data                                 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_init_search_location_set                      H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_init_word                                     H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_l_check_dic                                   H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_l_get_candidate                               H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_l_get_stroke                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_l_get_word                                    H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_l_search_word                                 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njd_r_get_connect                                 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+njd_r_get_count                                   H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+njd_r_get_hinsi                                   H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndrdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+nje_convert_hira_to_kata                          H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/necode.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndldic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndfdic.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndbdic.o
+njx_check_dic                                     H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+njx_get_candidate                                 H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+njx_get_stroke                                    H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+njx_get_word                                      H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+njx_init                                          H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+njx_search_word                                   H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/ndapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o
+njx_select                                        H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/engine/neapi.o
+                                                  H:/eclipse/indigo/NicoWnnG/trunk/nicoWnnG/obj/local/x86/objs/nicownngdict/OpenWnnDictionaryImplJni.o

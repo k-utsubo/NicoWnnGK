@@ -1,0 +1,174 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Android.mk
+* COMPILE.txt
+* MODULE_LICENSE_APACHE2
+* NOTICE
+* README.txt
+* help/
+* help/basic.css
+* help/faq.html
+* help/feature.html
+* help/index.html
+* help/input.html
+* help/install.html
+* help/license.html
+* help/local.css
+* help/pic/
+* help/pic/IMG_0968.jpg
+* help/pic/IMG_0968_small.jpg
+* help/pic/ad_1024_500.png
+* help/pic/and3ime.png
+* help/pic/and4ime.png
+* help/pic/config_000.png
+* help/pic/config_010.png
+* help/pic/config_020.png
+* help/pic/config_030.png
+* help/pic/config_040.png
+* help/pic/config_candidate_vertical_1.png
+* help/pic/config_candidate_vertical_2.png
+* help/pic/config_key_design_metal.png
+* help/pic/config_key_design_normal.png
+* help/pic/config_key_design_simple.png
+* help/pic/config_key_fullscreen.png
+* help/pic/config_key_popup.png
+* help/pic/config_key_popup_flick.png
+* help/pic/config_key_smallize.png
+* help/pic/easy_setting.png
+* help/pic/fyi.png
+* help/pic/icon.png
+* help/pic/input.png
+* help/pic/input_12key.png
+* help/pic/input_12key_alphabet.png
+* help/pic/input_12key_mode.png
+* help/pic/input_12key_shift.png
+* help/pic/input_2touch.png
+* help/pic/input_arrowkeys.png
+* help/pic/input_flick.png
+* help/pic/input_key_listup.png
+* help/pic/input_key_mushroom.png
+* help/pic/input_key_mushroom_symbol.png
+* help/pic/input_key_reverse.png
+* help/pic/input_key_shift.png
+* help/pic/input_key_shift_12key.png
+* help/pic/input_key_shift_lock.png
+* help/pic/input_key_shift_lock_12key.png
+* help/pic/input_key_shift_on.png
+* help/pic/input_key_symbol.png
+* help/pic/input_key_usersymbol.png
+* help/pic/input_key_xfer.png
+* help/pic/input_listup.png
+* help/pic/input_minimode_12key_1.png
+* help/pic/input_minimode_12key_2.png
+* help/pic/input_minimode_12key_3.png
+* help/pic/input_minimode_landscape.png
+* help/pic/input_minimode_portrait_1.png
+* help/pic/input_minimode_portrait_3.png
+* help/pic/input_minimode_qwerty_1.png
+* help/pic/input_minimode_qwerty_1l.png
+* help/pic/input_minimode_qwerty_2.png
+* help/pic/input_modedialog.png
+* help/pic/input_modedialog_12key.png
+* help/pic/input_modedialog_config.png
+* help/pic/input_modedialog_hanalpha.png
+* help/pic/input_modedialog_hankata.png
+* help/pic/input_modedialog_hannum.png
+* help/pic/input_modedialog_help.png
+* help/pic/input_modedialog_hiragana.png
+* help/pic/input_modedialog_qwerty.png
+* help/pic/input_modedialog_zenalpha.png
+* help/pic/input_modedialog_zenkata.png
+* help/pic/input_modedialog_zennum.png
+* help/pic/input_mushroom.png
+* help/pic/input_niwa_1.png
+* help/pic/input_niwa_2.png
+* help/pic/input_niwa_3.png
+* help/pic/input_niwa_4.png
+* help/pic/input_predict.png
+* help/pic/input_qwerty.png
+* help/pic/input_qwerty_key_mode.png
+* help/pic/input_select.png
+* help/pic/input_shift.png
+* help/pic/input_toggle.png
+* help/pic/input_usersymbol.png
+* help/pic/install_001.png
+* help/pic/install_002.png
+* help/pic/jumpl.png
+* help/pic/keycode_test.png
+* help/pic/language.png
+* help/pic/memo_004.png
+* help/pic/memo_004_small.jpg
+* help/pic/menu.png
+* help/pic/qwerty_alpha_type_compact.png
+* help/pic/qwerty_alpha_type_compact_matrix.png
+* help/pic/qwerty_alpha_type_mini.png
+* help/pic/qwerty_alpha_type_mini2.png
+* help/pic/qwerty_alpha_type_roman.png
+* help/pic/qwerty_kana_type_50onkana.png
+* help/pic/qwerty_kana_type_50onkana2.png
+* help/pic/qwerty_kana_type_compact.png
+* help/pic/qwerty_kana_type_compact_swapenter.png
+* help/pic/qwerty_kana_type_jiskana.png
+* help/pic/qwerty_kana_type_jiskana2.png
+* help/pic/qwerty_kana_type_mini.png
+* help/pic/qwerty_kana_type_mini2.png
+* help/pic/qwerty_kana_type_mini2_swapenter.png
+* help/pic/qwerty_kana_type_mini_swapenter.png
+* help/pic/qwerty_kana_type_roman.png
+* help/pic/qwerty_kana_type_roman2.png
+* help/pic/qwerty_matrix_keyboard.png
+* help/pic/qwerty_minimode.png
+* help/pic/qwerty_num_type_mini.png
+* help/pic/qwerty_num_type_roman.png
+* help/pic/qwerty_num_type_roman2.png
+* help/pic/selectime.png
+* help/pic/subten_google.png
+* help/pic/userdic_button_edit.png
+* help/pic/userdic_button_etc.png
+* help/pic/userdic_button_import.png
+* help/pic/userdic_button_page.png
+* help/pic/userdic_edit.png
+* help/pic/userdic_filer.png
+* help/pic/userdic_main.png
+* help/pic/vscreen_001.png
+* help/pic/vscreen_001_small.png
+* help/pic/vscreen_002.png
+* help/pic/vscreen_002_small.png
+* help/pic/vscreen_003.png
+* help/pic/vscreen_003_small.png
+* help/system.html
+* help/userdic.html
+* nicoWnnG.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* jni/ => app/src/main/jni/
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
